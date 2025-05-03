@@ -2,7 +2,7 @@
 
 A responsive weather application that fetches real-time weather data and displays the local time for any city worldwide. Built with HTML, CSS, and JavaScript, it integrates with the **OpenWeather API** and **IP Geolocation API** for accurate weather and timezone data.
 
-![Weather App Interface](https://raw.githubusercontent.com/MoemenF-03/weather-app/interface.png)
+![Weather App Screenshot](./interface.png)
 
 ## ✨ Features
 
